@@ -28,7 +28,18 @@
     display: flex;
     flex-direction: row;
 }
-a{
+img{
+    height: auto;
+    width: 200px
+}
+a {
     display: inline-block;
+    align-content: space-evenly;
+    gap: 2px;
+    justify-content: space-between;
+    margin-right: 2px;
 }
 
+.headerlogo{
+    justify-content: space-evenly;
+}
