@@ -1,3 +1,13 @@
+*{
+    font-family: "Roboto",serif;
+}
+
 .button {
-    color: #380e98
+    color: #3882f6
+}
+
+.inform, .text, header{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
 }
