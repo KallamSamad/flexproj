@@ -23,13 +23,13 @@
     background-color: #1f2937;
 }
 
-.hero .main {
+.tophead {
     font-size: 48px;
     color: #f9faf8;
     font-weight: 900;
 }
 
-.hero .secondary {
+..headtext {
     font-size: 18px;
     color: #e5e7eb;
 }
@@ -38,4 +38,13 @@
     font-size: 24px;
     color: #f9faf8;
     background-color: #1f2937;
+}
+
+.tophead{
+    display: flex;
+    flex-direction: row;
+}
+.headtext{
+    display: flex;
+    flex-direction: row;
 }
