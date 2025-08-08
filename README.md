@@ -1,7 +1,7 @@
 ## CSS PROJECT from ODIN PROJECT
 
 # Description
-[AN ODIN PROJECT EXERCISE]("https://www.theodinproject.com/lessons/foundations-landing-page") </link> to practice flexbox concepts. Took a long time but now understand concepts like display: flex; flex-direction: center, using the parent tag to change the siblings
+[AN ODIN PROJECT EXERCISE](https://www.theodinproject.com/lessons/foundations-landing-page) </link> to practice flexbox concepts. Took a long time but now understand concepts like display: flex; flex-direction: center, using the parent tag to change the siblings
 etc. Also I learned that text-decoration: none removes the blue text and underline from a link BUT I confused <a></a> tags for <link></link> tagss so <B>NTS </B>.
 
 # Image
